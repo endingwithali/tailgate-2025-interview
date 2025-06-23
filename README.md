@@ -45,3 +45,9 @@ Testing done with [pytest](https://docs.pytest.org/). To run tests, run the foll
 #### Notes From: 
 - https://medium.com/@khanzadaaneeda/contiguous-memory-allocation-first-fit-best-fit-and-worst-fit-734fd6f78ab
 - https://www.thejat.in/learn/memory-fragmentation-and-compaction
+
+
+# Example Implementation From Walkthrough Call
+![Example](./images/img1.png)
+![Example Continued](./images/img2.png)
+
