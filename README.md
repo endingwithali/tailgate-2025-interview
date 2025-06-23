@@ -23,15 +23,21 @@ In practice, I would not recommend any part of the implementation of this projec
 You will need *python3* and *pip* for this project to work.
 
 Install the requirements by running: 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Source `venv` by running (Unfamiliar with venvs? [Click here](https://python.land/virtual-environments/virtualenv) to learn more.)
-```source venv/bin/activate```
+```
+source venv/bin/activate
+```
 
 
 ## Testing
 Testing done with [pytest](https://docs.pytest.org/). To run tests, run the following command:
-```pytest```
+```
+pytest
+```
 
 
 
@@ -49,5 +55,6 @@ Testing done with [pytest](https://docs.pytest.org/). To run tests, run the foll
 
 # Example Implementation From Walkthrough Call
 ![Example](./images/img1.png)
+
 ![Example Continued](./images/img2.png)
 
